@@ -58,18 +58,34 @@ sections:
           company: Case Western Reserve University
           company_url: ''
           company_logo: org-gc
-          location: Cleveland
-          date_start: '2021-01-01'
+          location: Cleveland, OH, USA
+          date_start: '2024-01-01'
           date_end: ''
           description: 
         - title: Graduate Research Assistant
           company: University at Buffalo
           company_url: ''
           company_logo: org-x
-          location: Buffalo
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Buffalo, NY, USA
+          date_start: '2023-02-01'
+          date_end: '2023-12-31'
           description: Research focused on Visual-Inertial Odometry and SLAM.
+        - title: Computer Vision Engineer Intern
+          company: Tencent
+          company_url: ''
+          company_logo: org-x
+          location: Shen Zhen, China
+          date_start: '2021-07-01'
+          date_end: '2022-06-15'
+          description: Research focused on Human Pose Estimation and 3D Face Reconstruction.
+        - title: Undergraduate Research Assistant
+          company: ShanghaiTech University
+          company_url: ''
+          company_logo: org-x
+          location: Shanghai, China
+          date_start: '2021-06-01'
+          date_end: '2019-07-01'
+          description: Research focused on Robot Perception and Multi-sensor Fusion.
     design:
       columns: '2'
   - block: collection
