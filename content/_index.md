@@ -57,7 +57,7 @@ sections:
         - title: Teaching Assistant
           company: Case Western Reserve University
           company_url: ''
-          company_logo: CASE
+          company_logo: CWRU
           location: Cleveland, OH, USA
           date_start: '2024-01-01'
           date_end: ''
@@ -81,7 +81,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: ShanghaiTech University
           company_url: ''
-          company_logo: org-x
+          company_logo: ShanghaiTech
           location: Shanghai, China
           date_start: '2021-06-01'
           date_end: '2019-07-01'
