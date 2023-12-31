@@ -65,7 +65,7 @@ sections:
         - title: Graduate Research Assistant
           company: University at Buffalo
           company_url: ''
-          company_logo: org-x
+          company_logo: UB
           location: Buffalo, NY, USA
           date_start: '2023-02-01'
           date_end: '2023-12-31'
@@ -73,7 +73,7 @@ sections:
         - title: Computer Vision Engineer Intern
           company: Tencent
           company_url: ''
-          company_logo: org-x
+          company_logo: Tencent
           location: Shen Zhen, China
           date_start: '2021-07-01'
           date_end: '2022-06-15'
