@@ -54,27 +54,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Teaching Assistant
+          company: Case Western Reserve University
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Cleveland
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: 
+        - title: Graduate Research Assistant
+          company: University at Buffalo
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Buffalo
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Research focused on Visual-Inertial Odometry and SLAM.
     design:
       columns: '2'
   - block: collection
