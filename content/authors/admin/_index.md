@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-I'm a first-year Ph.D. student in Computer Science at Case Western Reserve University, where I am advised by Prof. Yu Yin. Prior to that, I received my M.S. in Computer Science from University at Buffalo (UB) in 2023, where I was fortunate to be a member of SAIR lab and advised by Prof. Chen Wang. I received my B.Eng. in Computer Science from ShanghaiTech University supervised by Prof. Sören Schwertfeger.
+I'm a first-year Ph.D. student in Computer Science at Case Western Reserve University, where I am advised by Prof. Yu Yin. Prior to that, I received my M.S. in Computer Science and Engineering from University at Buffalo (UB) in 2023, where I was fortunate to be a member of SAIR lab and advised by Prof. Chen Wang. I received my B.Eng. in Computer Science from ShanghaiTech University supervised by Prof. Sören Schwertfeger.
 {style="text-align: justify;"}
