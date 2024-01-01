@@ -35,14 +35,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: Case Western Reserve University
+    - course: Ph.D. in Computer Science
+      institution: Case Western Reserve University  
       year: 2024-present
-    - course: MS in Computer Science and Engineering
+    - course: M.S. in Computer Science and Engineering  
       institution: University at Buffalo
       year: 2022-2023
-    - course: BEng in Computer Science
-      institution: ShanghaiTech University
+    - course: B.Eng. in Computer Science
+      institution: ShanghaiTech University  
       year: 2017-2021
 
 # Skills
@@ -90,21 +90,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com.au/citations?user=8euSVtcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/luyr
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yiren-lu-631798183/
@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-I'm a first-year PhD student in Computer Science at Case Western Reserve University, where I am advised by Prof. Yu Yin. Prior to that, I received my M.S. in Computer Science from University at Buffalo (UB) in 2023. During my graduate study at UB, I was fortunate to be advised by Prof. Chen Wang and be a member of SAIR lab. I received my B.Eng. in Computer Science from ShanghaiTech University supervised by Prof. Sören Schwertfeger.
+I'm a first-year Ph.D. student in Computer Science at Case Western Reserve University, where I am advised by Prof. Yu Yin. Prior to that, I received my M.S. in Computer Science from University at Buffalo (UB) in 2023, where I was fortunate to be a member of SAIR lab and advised by Prof. Chen Wang. I received my B.Eng. in Computer Science from ShanghaiTech University supervised by Prof. Sören Schwertfeger.
 {style="text-align: justify;"}
