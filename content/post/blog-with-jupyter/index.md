@@ -1,5 +1,5 @@
 ---
-title: PyPose v0.6: The Imperative Programming Interface for Robotics
+title: PyPose v0.6\: The Imperative Programming Interface for Robotics
 summary: IROS'2023 Workshop
 authors: 
 - Zitong Zhan
@@ -26,7 +26,7 @@ authors:
 - Fan Yang
 - Jingnan Shi
 - Shaoshu Su
-- Yiren Lu
+- admin
 - Taimeng Fu
 - Karthik Dantu
 - Jiajun Wu
