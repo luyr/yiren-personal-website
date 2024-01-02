@@ -1,6 +1,6 @@
 ---
 title: PyPose v0.6:The Imperative Programming Interface for Robotics
-summary: IROS'2023 Workshop
+summary: IROS'2023 Workshop 
 authors: 
 - Zitong Zhan
 - Xiangfu Li
