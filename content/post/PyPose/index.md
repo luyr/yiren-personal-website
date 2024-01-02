@@ -1,4 +1,8 @@
 ---
+# Show the page's date?
+show_date: False
+# Show estimated reading time?
+reading_time: False
 title: PyPose v0.6:The Imperative Programming Interface for Robotics
 summary: IROS'2023 Workshop 
 authors: 

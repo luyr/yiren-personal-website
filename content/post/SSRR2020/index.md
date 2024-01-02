@@ -1,4 +1,8 @@
 ---
+# Show the page's date?
+show_date: False
+# Show estimated reading time?
+reading_time: False
 title: Improving CNN-based Planar Object Detection with Geometric Prior Knowledge
 summary: SSRR'2020 
 authors: 
